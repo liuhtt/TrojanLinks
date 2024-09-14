@@ -1,5 +1,6 @@
 name: getSSR
 
+
 # 触发条件
 on:
   workflow_dispatch:
